@@ -1,0 +1,8 @@
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\bin\Debug\Clases_herencia.exe.config
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\bin\Debug\Clases_herencia.exe
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\bin\Debug\Clases_herencia.pdb
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\obj\Debug\Clases_herencia.csproj.AssemblyReference.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\obj\Debug\Clases_herencia.csproj.SuggestedBindingRedirects.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\obj\Debug\Clases_herencia.csproj.CoreCompileInputs.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\obj\Debug\Clases_herencia.exe
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Clases_herencia\Clases_herencia\obj\Debug\Clases_herencia.pdb
