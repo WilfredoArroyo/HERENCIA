@@ -44,6 +44,14 @@ namespace Clases_herencia
                 Nombre = "Juan",
                 Sueldo = 5400
             });
+            //configuracion
+            listadocentes.Add(new Docente()
+            {
+                Cuenta = "brayanmm",
+                Password = "123987",
+                Nombre = "ruben",
+                Sueldo = 5200
+            });
             Mostrarlista(listadocentes);
 
             Double promedio = getPromedio(listadocentes);
@@ -74,7 +82,7 @@ namespace Clases_herencia
         {
             //funciones lambda
             decimal sum = listadocentes.Sum(x => x.Sueldo);
-
+            //dale tu puedes
             int Total = listadocentes.Count;
             return (double)(sum/Total);
         }
